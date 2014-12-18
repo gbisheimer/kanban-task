@@ -1,0 +1,7 @@
+{
+  "name": "kanban-task#gh-pages",
+  "private": true,
+  "dependencies": {
+    "kanban-task": "gbisheimer/kanban-task#master"
+  }
+}
